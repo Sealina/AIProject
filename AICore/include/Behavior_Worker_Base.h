@@ -1,0 +1,1 @@
+class Behavior_Worker_Base
