@@ -2,7 +2,7 @@ cmake_minimum_required( VERSION 2.8 )
 
 SET( DEFINE )
 SET( INCLUDE
-glm
+${CMAKE_SOURCE_DIR}/glm/glm
 )
 SET( LINK
 glm

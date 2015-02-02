@@ -3,6 +3,7 @@
 
 # Build results
 build/
+purify/
 Binaries/Libraries/*
 Binaries/Shaders/*
 CMake/
